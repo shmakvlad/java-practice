@@ -4,6 +4,9 @@ import java.util.ArrayList;
 
 public class Iterator {
     public static void main(String[] args) {
+        System.out.println('\u0054');
+        System.out.println('\u0054');
+        System.out.println('\u0074');
 
         ArrayList lenta = new ArrayList();
         for(int i = 0; i < 10; i++){

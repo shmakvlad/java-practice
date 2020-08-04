@@ -54,7 +54,14 @@ public class CopyArrayList {
         List list1 = Arrays.asList(array.clone());
 
 
-    // 6 - Перезаписать значения в цикле
+    // 6 - Скопировать массив
+        String[] arr = {"3", "2", "6", "4", "6"};
+        String[] arr1 = Arrays.copyOf(arr, arr.length);
+
+
+    // 7 - Перезаписать значения в цикле
+
+
 
     }
 }
