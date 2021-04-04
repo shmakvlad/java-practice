@@ -5,120 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513d2b77-3e15-4fa6-82ae-c1fefe3e20e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Console/BufferedReaderWriter/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Console/systemConsoleReadLine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/BinaryOperator/INTBinaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Comparator/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Comparator/INTComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Comparator/YearComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Consumer/INTBiConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Consumer/INTConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Date/DateTimeConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/ForEach/JForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Function/INTBiFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Function/INTFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Function/JBiFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Function/ListToList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Function/ListToMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Junit5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Lambda/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/MethodReferences/MRToConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/MethodReferences/MRToInstanceMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/MethodReferences/MRToInstanceMethodOfArbitraryObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/MethodReferences/MRToStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/MethodReferences/MethodReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Predicate/INTPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/ReadMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/Supplier/INTSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/UnaryOperator/INTUnaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/shmakvlad.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/shmakvlad.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataFile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/AbstractClasses/AbstractClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/AbstractClasses/AbstractClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/AbstractClasses/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/AbstractClasses/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/AbstractClasses/Colibri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/Arrays/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/BufferedReaderWriter/ConsoleReaderExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/BufferedReaderWriter/FileReaderExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/BufferedReaderWriter/FileReaderWriterExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/BufferedReaderWriter/FileWritterExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/BufferedReaderWriter/ReadFromThisFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/BufferedReaderWriter/WriteToThisFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/Conditions/Conditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/ConsoleInput/ConsoleInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/HelloWorld/FirstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/AnimEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/Animals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/ArgPerDlina.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/Basics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/EqualsAndStringPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/Exeptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/Jenerics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/MyArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/MyExeption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/PreobrazovanieTipov.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/ReadDataFromFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/StringArticles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/StringBuildPrintf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/VloClassElectrocar$1MethodClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/VloClassElectrocar$Energy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/VloClassElectrocar$Motor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/VloClassElectrocar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/Wildcard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/JFB/WriteDataintoFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/List/CopyArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/List/Iterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/List/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/MapList/MapList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/MapList/MyMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/systemConsoleReadLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy/Сycles/Сycles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/AbstractClasses/AbstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/AbstractClasses/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/AbstractClasses/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Colibri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/AbstractClasses/Colibri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Arrays/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BufferedReaderWriter/ConsoleFileReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/BufferedReaderWriter/ConsoleFileReadWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BufferedReaderWriter/ConsoleReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/BufferedReaderWriter/ConsoleReaderExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BufferedReaderWriter/FileReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/BufferedReaderWriter/FileReaderExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BufferedReaderWriter/FileReaderWriterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/BufferedReaderWriter/FileReaderWriterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BufferedReaderWriter/FileWritterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/BufferedReaderWriter/FileWritterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BufferedReaderWriter/ReadFromThisFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/BufferedReaderWriter/ReadFromThisFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BufferedReaderWriter/WriteToThisFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/BufferedReaderWriter/WriteToThisFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditions/Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/Conditions/Conditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsoleInput/ConsoleInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld/FirstClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/AnimEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/AnimEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/ArgPerDlina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ArgPerDlina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Basics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/EqualsAndStringPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/EqualsAndStringPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/Exeptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Exeptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/Jenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Jenerics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/MyArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Arrays/MyArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/PreobrazovanieTipov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/PreobrazovanieTipov.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/ReadDataFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ReadDataFromFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/StringArticles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/StringArticles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/StringBuildPrintf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/StringBuildPrintf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/VloClassElectrocar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/VloClassElectrocar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/Wildcard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Wildcard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFB/WriteDataintoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/WriteDataintoFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/CopyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/CopyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/List/Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/List/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MapList/MapList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/Map/JMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MapList/MyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/Map/MyMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/systemConsoleReadLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/systemConsoleReadLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console/systemConsoleReadLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сycles/Сycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Сycles/Сycles.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,10 +41,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java8/Junit5.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -197,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BufferedReaderWriter/Streams.java" />
         <option value="$PROJECT_DIR$/src/BufferedReaderWriter/ConsoleFileReadWrite.java" />
         <option value="$PROJECT_DIR$/src/Java8/DateTimeConverter.java" />
         <option value="$PROJECT_DIR$/src/Java8/Lambda.java" />
@@ -248,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/Java8/Consumer/INTBiConsumer.java" />
         <option value="$PROJECT_DIR$/src/Java8/Predicate/INTPredicate.java" />
         <option value="$PROJECT_DIR$/src/Java8/Junit5.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -268,21 +156,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="Udemy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="Udemy" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
-              <item name="Udemy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="Udemy" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="Udemy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="Udemy" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Java8" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -291,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -611,11 +499,12 @@
       <workItem from="1615974346952" duration="1013000" />
       <workItem from="1616008432911" duration="122000" />
       <workItem from="1616008577644" duration="4000" />
+      <workItem from="1617566185680" duration="68000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259084000" />
+    <option name="totallyTimeSpent" value="259152000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -627,10 +516,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="830" extended-state="0" />
+    <frame x="0" y="25" width="1440" height="822" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49236193" visible="true" weight="0.19513889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49236193" visible="true" weight="0.19513889" />
       <window_info id="Structure" order="1" sideWeight="0.5019531" side_tool="true" weight="0.17453505" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -647,7 +536,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4985694" weight="0.3960047" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4985694" weight="0.39597315" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028612" side_tool="true" weight="0.37108433" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.31022328" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32891566" />
@@ -689,18 +578,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java8/Function/ListToMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1288#1289#0" expanded="true" />
-            <element signature="e#1323#1324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Supplier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -959,7 +836,6 @@
           <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1611353283060" expanded="true" signature="395:431" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1118,6 +994,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
